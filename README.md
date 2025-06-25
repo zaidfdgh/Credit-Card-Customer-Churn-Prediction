@@ -17,6 +17,12 @@ This project uses customer data to analyze and predict credit card churn, helpin
 - Higher churn among: low-income customers, inactive users
 - Lower transaction frequency strongly correlated with churn
 
+- ## 🔎 SQL-Driven Insights
+This project uses SQL to uncover churn drivers:
+- Income brackets with highest churn
+- Drop in usage patterns before leaving
+- High inactivity + low transactions = red flag
+
 ## 📂 Project Structure
 - `Cleaned_CreditCard_Customers.csv`: Final dataset
 - `sql_queries.sql`: SQL scripts used
