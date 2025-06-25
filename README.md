@@ -8,6 +8,8 @@ This project uses customer data to analyze and predict credit card churn, helpin
 - CSV dataset of 10,000+ customers
 
 ## 🧠 Project Goals
+- Understand data structure
+- Explore relationships
 - Identify key patterns in churn behavior
 - Highlight features most predictive of churn
 - Deliver actionable insights to reduce churn rate
