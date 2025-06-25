@@ -28,7 +28,7 @@ Kaggle - https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 ## 📥 Full Project File
 
 Download the complete multi-tab analysis:  
-[📄 Churn_Analysis.xlsx](Churn_Analysis.xlsx)
+[📄 Churn_Analysis.xlsx][(Churn_Analysis.xlsx)](https://github.com/zaidfdgh/credit-card-churn-prediction/blob/main/Cleaned_CreditCard_Customers.xlsx)
 
 ## ✅ Next Steps
 - Automate with Python or R
