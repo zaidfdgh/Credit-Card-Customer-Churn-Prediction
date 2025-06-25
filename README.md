@@ -25,5 +25,10 @@ This project uses customer data to analyze and predict credit card churn, helpin
 ## 📎 Dataset Source
 Kaggle - https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 
+## 📥 Full Project File
+
+Download the complete multi-tab analysis:  
+[📄 Churn_Analysis.xlsx](Churn_Analysis.xlsx)
+
 ## ✅ Next Steps
 - Automate with Python or R
