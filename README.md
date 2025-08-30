@@ -1,4 +1,5 @@
 # Credit Card Customer Churn Prediction
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 This project uses customer data to analyze and predict credit card churn, helping a company proactively engage at-risk customers.
 
@@ -40,3 +41,4 @@ Download the complete multi-tab analysis:
 
 ## ✅ Next Steps
 - Automate with Python or R
+
