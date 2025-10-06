@@ -28,7 +28,7 @@ This project uses SQL to uncover churn drivers:
 - High inactivity + low transactions = red flag
 
 ## 📂 Project Structure
-- `Cleaned_CreditCard_Customers.csv`: Final dataset
+- `CreditCard_Customers_with_PredProb.csv`: Final dataset
 - `sql_queries.sql`: SQL scripts used
 - `dashboard_screenshot.png`: Visual summary
 
@@ -48,6 +48,7 @@ Download the complete multi-tab analysis:
 
 ## ✅ Next Steps
 - Automate with Python or R
+
 
 
 
