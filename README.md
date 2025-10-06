@@ -37,6 +37,9 @@ This project uses SQL to uncover churn drivers:
 View interactive dashboard here:  
 👉 [Tableau Public - Credit Card Churn Dashboard](https://public.tableau.com/views/CreditCardChurnPredictionDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## Visual Summary
+
+![Dashboard](https://github.com/zaidfdgh/credit-card-churn-prediction/blob/main/dashboard_screenshot.PNG)
 
 ## 📎 Dataset Source
 Kaggle - https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
@@ -44,10 +47,11 @@ Kaggle - https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 ## 📥 Full Project File
 
 Download the complete multi-tab analysis:  
-[(Churn_Analysis.xlsx)](https://github.com/zaidfdgh/credit-card-churn-prediction/blob/main/CreditCard_Customers_with_PredProb.csv)
+[(CreditCard_Customers_with_PredProb.csv)](https://github.com/zaidfdgh/credit-card-churn-prediction/blob/main/CreditCard_Customers_with_PredProb.csv)
 
 ## ✅ Next Steps
 - Automate with Python or R
+
 
 
 
