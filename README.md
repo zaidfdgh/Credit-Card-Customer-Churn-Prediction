@@ -18,7 +18,7 @@ This project uses customer data to analyze and predict credit card churn, helpin
 
 ## 📈 Key Findings
 - Churn rate: **16%**
-- Higher churn among: low-income customers, inactive users
+- Higher churn among: inactive users
 - Lower transaction frequency strongly correlated with churn
 
 - ## 🔎 SQL-Driven Insights
@@ -48,6 +48,7 @@ Download the complete multi-tab analysis:
 
 ## ✅ Next Steps
 - Automate with Python or R
+
 
 
 
