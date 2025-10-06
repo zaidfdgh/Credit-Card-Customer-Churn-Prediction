@@ -39,7 +39,7 @@ View interactive dashboard here:
 
 ## Visual Summary
 
-![Dashboard](https://github.com/zaidfdgh/credit-card-churn-prediction/blob/main/dashboard_screenshot.PNG)
+![Dashboard](https://github.com/zaidfdgh/credit-card-churn-prediction/blob/main/dashboard_snapshot.PNG)
 
 ## 📎 Dataset Source
 Kaggle - https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
@@ -51,6 +51,7 @@ Download the complete multi-tab analysis:
 
 ## ✅ Next Steps
 - Automate with Python or R
+
 
 
 
