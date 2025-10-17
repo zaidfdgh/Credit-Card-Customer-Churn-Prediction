@@ -35,7 +35,7 @@ This project uses SQL to uncover churn drivers:
 ## 📊 Interactive Dashboard
 
 View interactive dashboard here:  
-👉 [Tableau Public - Credit Card Churn Dashboard](https://public.tableau.com/views/CreditCardChurnPredictionDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 [Tableau Public - Credit Card Customer Churn Dashboard](https://public.tableau.com/views/CreditCardChurnPredictionDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Visual Summary
 
@@ -51,6 +51,7 @@ Download the complete multi-tab analysis:
 
 ## ✅ Next Steps
 - Automate with Python or R
+
 
 
 
